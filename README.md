@@ -6,10 +6,10 @@
 
 ## Usage:
   
-    ```
-    $ switch maven 2.1.0
-    $ mvn ...
-    ```
+  ```
+  $ switch maven 2.1.0
+  $ mvn ...
+  ```
 
 ## Installation:
 
@@ -17,11 +17,13 @@
 
 ## Tools directory structure:
   
+  ```
   * .../<tool_name>/
     * <tool_version>/
     * <tool_version2>/
     * onSwitch.sh
     * onRun.sh
+  ```
 
 ## Callback scripts:
 
